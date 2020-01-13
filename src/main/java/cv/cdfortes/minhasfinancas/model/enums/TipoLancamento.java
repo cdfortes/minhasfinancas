@@ -1,4 +1,4 @@
-package cv.cdfortes.minhasfinancas.model.entity;
+package cv.cdfortes.minhasfinancas.model.enums;
 
 public enum TipoLancamento {
 	
